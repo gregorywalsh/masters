@@ -1,0 +1,3 @@
+OPTIMIZE TABLE instacart.orders;
+OPTIMIZE TABLE instacart.order_products__all;
+OPTIMIZE TABLE instacart_intermediate.prev_order_prediction_f1;

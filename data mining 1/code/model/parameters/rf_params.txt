@@ -1,0 +1,1 @@
+Model with rank: 1Mean validation score: 0.902 (std: 0.000)Parameters: {'bootstrap': True, 'criterion': 'entropy', 'max_depth': 2, 'max_features': 2, 'min_samples_leaf': 9, 'min_samples_split': 2, 'n_estimators': 2}

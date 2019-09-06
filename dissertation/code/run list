@@ -1,0 +1,41 @@
+main.py
+    MLP
+       meanstd - DONE
+       ranked - DONE
+       minmax - DONE
+
+    CNN
+        meanstd - DONE
+        ranked - DONE
+        minmax - DONE
+
+    RNN
+        meanstd - DONE
+        ranked - DONE
+        minmax - DONE
+
+    CRNN
+        meanstd - DONE
+        ranked - DONE
+        minmax - DONE
+
+crossval.py
+    MLP
+       meanstd - VAL
+       ranked - VAL
+       minmax - DONE
+
+    CNN
+        meanstd - VAL
+        ranked - VAL
+        minmax - DONE
+
+    RNN
+        meanstd - VAL
+        ranked - DONE
+        minmax - RUNNING
+
+    CRNN
+        meanstd - VAL
+        ranked - DONE
+        minmax - RUNNING

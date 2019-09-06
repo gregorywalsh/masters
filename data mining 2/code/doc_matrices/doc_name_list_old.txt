@@ -1,0 +1,24 @@
+1 - Dictionary of Greek and Roman geography (Vol II of II) - Smith - 1857.txt
+2 - The Works of Cornelius Tacitus (Vol V of VIII) - Tacitus (Murphy) - 1805.txt
+3 - The History of the Peloponnesian War (Vol II) - Thucydides (Smith) - 1781.txt
+4 - The History of Rome (Vol I of VI) - Livy (Baker) - 1797.txt
+5 - The History of the Decline and Fall of the Roman Empire (Vol III of IV) - Gibbon - 1830.txt
+6 - The Whole Genuine Works of Flavius Josephus (Vol  II of IV) - Josephus (Whiston) - 1829.txt
+7 - The Description of Greece (Vol III of III) - Pausanias (Taylor) - 1794.txt
+8 - Livy (History of Rome, Vol III) - Livy (Baker) - 1833 .txt
+9 - Gibbon's History of the Decline and Fall of the Roman Empire (Vol IV of V) - Gibbon (Bowlder) - 1826.txt
+10 - Gibbon's History of the Decline and Fall of the Roman Empire (Vol II of V) - Gibbon (Bowlder) - 1826.txt
+11 - The Historical Annals of Cornelius Tactitus (Vol I of III) - Murphy - 1829.txt
+12 - Livy (History of Rome, Vol V) - Livy (Baker) - 1834.txt
+13 - The Genuine Works of Flavius Josephus (Vol  I of II) - Josephus (Whiston) - 1821.txt
+14 - The History of the Decline and Fall of the Roman Empire (Vol V of VIII) - Gibbon - 1821.txt
+15 - The Histories of Caius Cornellius Tacitus - Tyler - 1864.txt
+16 - The History of the Decline and Fall of the Roman Empire (Vol VI of VIII) - Gibbon - 1825.txt
+17 - The History of the Decline and Fall of the Roman Empire (Vol I) - Gibbon - 1776.txt
+18 - The History of Rome (Vol III) - Mommsen (Dickson) - 1863.txt
+19 - The History of the Peloponnesian War (Vol I of II) - Thucydides (Smith) - 1818.txt
+20 - Titus Livius' Roman History - Livy (Gordon) - 1813.txt
+21 - The Works of Josephus (Vol IV of IV) - Josephus (Whiston) - 1869.txt
+22 - The Works of Cornelius Tacitus (Vol IV of VIII) - Tacitus (Murphy) - 1805.txt
+23 - The First and Thirty-Third Books of Pliny's Natural History - Bostock - 1828.txt
+24 - The Works of Flavius Josephus (Vol III of IV) - Josephus (Whiston) - 1806.txt
